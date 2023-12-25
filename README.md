@@ -1,6 +1,6 @@
 # Hi there! I'm @kallepesko
 
-Student in [JAMK](www.jamk.fi/en). I'm learning Cyber Security, Data-Analytics, Python... 
+Student in [JAMK](https://jamk.fi/en/). I'm learning Cyber Security, Data-Analytics, Python... 
 
 Willing to understand how to effectively use AI and its possibilities.
 
